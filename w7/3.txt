@@ -1,0 +1,10 @@
+#include <stdio.h>
+
+int main(){
+/*helo*/
+printf("hi");
+printf("hello"); 
+//new
+
+return 0;
+}
